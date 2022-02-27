@@ -289,9 +289,9 @@ We are now set with the database and credentials. Let's start coding with Spring
 #### ✅ 7a. Open Gitpod
 
 Click the button below it should route you to your workspace:
-[https://gitpod.io/#https://github.com/datastaxdevs/workshop-spring-reactive](https://gitpod.io/#https://github.com/datastaxdevs/workshop-spring-reactive).
+[https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive](https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datastaxdevs/workshop-spring-reactive)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive)
 
 When you first launch gitpod, it builds the image.
 ![image](doc/img/building-workspace.png?raw=true)
@@ -631,7 +631,7 @@ You should see a response something like below.
 
 >[Reference Documentation](https://spring-petclinic.github.io/spring-petclinic-angular/)
 
->[Source Code](https://github.com/spring-petclinic/spring-petclinic-angular/tree/4f58177e29476a4866723a7edc6dab614e96eec0)
+>[Source Code](https://github.com/spring-petclinic/spring-petclinic-angular)
 
 Keep the application running on the first terminal. We need our backend. Let'us start the user interface.
 
