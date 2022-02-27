@@ -289,7 +289,7 @@ We are now set with the database and credentials. Let's start coding with Spring
 #### ✅ 7a. Open Gitpod
 
 Click the button below it should route you to your workspace:
-[https://gitpod.io/#https://github.com/datastaxdevs/workshop-spring-reactive](https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive).
+[https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive](https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive).
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/LuisMCunha/workshop-spring-reactive)
 
