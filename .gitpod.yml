@@ -35,8 +35,3 @@ github:
     addComment: false
     addBadge: true
     addLabel: false
-
-vscode:
-  extensions:
-    - Pivotal.vscode-spring-boot@1.22.0:NtlGb5ygHm2uP5qeqfVrCA==
-    - cool2k.vscode-lombok@1.0.2:e816/wZO588Jp8PN58Wj6g==
