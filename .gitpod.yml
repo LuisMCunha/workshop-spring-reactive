@@ -16,7 +16,7 @@ tasks:
   - name: spring-petclinic-reactive
     command: |
      mvn clean
-     
+
 ports:
   - port: 4200
     onOpen: open-browser
@@ -35,3 +35,7 @@ github:
     addComment: false
     addBadge: true
     addLabel: false
+vscode:
+  extensions:
+    - redhat.fabric8-analytics
+    - redhat.vscode-xml
